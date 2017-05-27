@@ -1,2 +1,2 @@
-# react
-react
+# react-webapck2
+react + webpack
